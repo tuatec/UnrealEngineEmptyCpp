@@ -7,19 +7,12 @@ Here you can see how to use the files, [#6.0 Adding C++ Support - UE5 Manny Inte
 
 Code for the uproject file.
 ```
-, 
-
+,
 	"Modules": [
-
 		{
-
 			"Name": "EmptyCpp",
-
 			"Type": "Runtime",
-
 			"LoadingPhase": "Default"
-
 		}
-
 	]
 ```
